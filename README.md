@@ -25,7 +25,7 @@ The system is intelligent enough to generate accurate queries for given question
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   git clone https://github.com/divyashah99/LLM-SQL-Retail-Project.git
