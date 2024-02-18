@@ -1,15 +1,14 @@
 
 # LLM SQL End-to-End Project: Talk to a Database  
 
-This is an end to end LLM project based on Google Palm and Langchain. I build a system that can talk to MySQL database!
-User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
-then executing that query on MySQL database. 
-Created a database on MySQL where a company might maintain their inventory, sales, and discounts data inside. A store manager 
-may ask questions such as,
-- How many white color Adidas t shirts do we have left in the stock?
-- How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
-The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
+This is an end-to-end LLM project based on Google Palm and Langchain. I have developed a system that can communicate with a MySQL database! Users can pose questions in natural language, and the system generates answers by converting those questions into an SQL query and then executing that query on a MySQL database.
 
+I have created a MySQL database where a company can maintain its inventory, sales, and discounts data. A store manager may inquire about various aspects, such as:
+
+- How many white-colored Adidas T-shirts do we have left in stock?
+- What will be the total sales generated if we sell all extra-small size T-shirts after applying discounts?
+
+The system is intelligent enough to generate accurate queries for the given questions and execute them on the MySQL database.
 
 ## Project Highlights
 
@@ -50,7 +49,7 @@ streamlit run main.py
 
 ```
 
-2.The web app will open in your browser where you can ask questions
+2. The web app will open in your browser where you can ask questions
 
 ## Sample Questions
   - How many total t shirts are left in total in stock?
