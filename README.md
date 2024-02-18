@@ -28,14 +28,9 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/divyashah99/LLM-SQL-Retail-Project.git
 ```
-2.Navigate to the project directory:
-
-```bash
-  cd 4_sqldb_tshirts
-```
-3. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
