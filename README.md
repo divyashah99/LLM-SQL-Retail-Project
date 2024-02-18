@@ -12,7 +12,7 @@ The system is intelligent enough to generate accurate queries for the given ques
 
 ## Project Highlights
 
-- I build an LLM based question and answer system that will use following,
+- I built an LLM based question and answer system that will use following,
   - Google Palm LLM
   - Hugging face embeddings
   - Streamlit for UI
